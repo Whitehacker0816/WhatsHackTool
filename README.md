@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mahesh</h1>
-<h3 align="center">A noobda hacker from India</h3>
+<h1 align="center">Hi 👋, I'm White Hat Hacker</h1>
+<h3 align="center">An inocent hacker from India</h3>
 
-# WhatsHack
+# InocentWhatsHack
 
-WhatsHack tool is created for whatsapp hacking. this tool contains very well features.
+InocentWhatsHack tool is created for whatsapp hacking. this tool contains very well features.
 
 <p align="center">
   <img src=".img/logo.png">
@@ -26,7 +26,7 @@ WhatsHack tool is created for whatsapp hacking. this tool contains very well fea
 
 ##
 ## Disclaimer
-Any actions and or activities related to WhatsHack is solely your responsibility. The misuse of this toolkit can result in criminal charges brought against the persons in question. The contributors will not be held responsible in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
+Any actions and or activities related to InocentWhatsHack is solely your responsibility. The misuse of this toolkit can result in criminal charges brought against the persons in question. The contributors will not be held responsible in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
 
 
 
@@ -35,7 +35,7 @@ Any actions and or activities related to WhatsHack is solely your responsibility
 Clone the repo
 
 ```bash
-  git clone https://github.com/mahesh2-lab/WhatsHack.git
+  git clone https://github.com/InocentWhatsHack/WhatsHack.git
 ```
 
 Go to the WhatsHack directory
