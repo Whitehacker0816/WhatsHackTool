@@ -35,7 +35,7 @@ Any actions and or activities related to InocentWhatsHack is solely your respons
 Clone the repo
 
 ```bash
-  git clone https://github.com/InocentWhatsHack/WhatsHackApk.git
+  git clone https://github.com/Whitehacker0816/WhatsHackApk.git
 ```
 
 Go to the WhatsHackApk directory
