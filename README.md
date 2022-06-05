@@ -6,7 +6,7 @@
 WhatsHackTool tool is created for whatsapp hacking. this tool contains very well features.
 
 <p align="center">
-  <img src=".img/logo.png">
+  <img src="https://github.com/mahesh2-lab/WhatsHack/raw/main/.img/logo.png">
 </p>
 
 <p align="center">
