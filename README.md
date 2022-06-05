@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mahesh</h1>
-<h3 align="center">A noobda hacker from India</h3>
+<h1 align="center">Hi 👋, I'm White Hacker</h1>
+<h3 align="center">A Inocent hacker from India</h3>
 
-# WhatsHack
+# WhatsHackTool
 
-WhatsHack tool is created for whatsapp hacking. this tool contains very well features.
+WhatsHackTool tool is created for whatsapp hacking. this tool contains very well features.
 
 <p align="center">
   <img src=".img/logo.png">
@@ -35,31 +35,31 @@ Any actions and or activities related to WhatsHack is solely your responsibility
 Clone the repo
 
 ```bash
-  git clone https://github.com/mahesh2-lab/WhatsHack.git
+  git clone https://github.com/Whitehacker0816/WhatsHackTool.git
 ```
 
-Go to the WhatsHack directory
+Go to the WhatsHackTool directory
 
 ```bash
-  cd WhatsHack
+  cd WhatsHackTool
 ```
 
 Give permission
 
 ```bash
-  chmod +x whatshack.sh
+  chmod +x whatshacktool.sh
 ```
 
 Run Tool
 
 ```bash
-  ./whatshack
+  ./whatshacktool
 ```
 
 
 ### Dependencies
 
-**`WhatsHack`** requires following programs to run properly - 
+**`WhatsHackTool`** requires following programs to run properly - 
 - `php`
 - `wget`
 - `curl`
@@ -75,12 +75,12 @@ Run Tool
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **maheshchopade133@gmail.com**
+- 📫 How to reach me **whitehat.hacker1108@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/mahesh_0_8_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahesh_0_8_8" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/channel/uck7am8wtiaw4hvsuzwtta5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/uck7am8wtiaw4hvsuzwtta5g" height="30" width="40" /></a>
+<a href="https://instagram.com/white.hat.hacker.2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahesh_0_8_8" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCoBGfGRKvpYq8kC5c_mDCzQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/uck7am8wtiaw4hvsuzwtta5g" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
